@@ -12,7 +12,11 @@ cool isnt it?
 
 technologies; PHP - Codeigniter, Html, Css, Javascript, JQuery, MySQL, PHPMyAdmin, Cpanel, SSL, Azure
 
-Blog project is live on http://eolatunde.ga/
-
 ![theme_dark](https://user-images.githubusercontent.com/56154525/202486117-6323bc69-cc67-4386-ae56-56320705f669.jpg)
 ![theme_light](https://user-images.githubusercontent.com/56154525/202486289-3a4275d4-a302-4484-9947-1062e4e857cc.jpg)
+
+
+Project is live on https://eolatunde.ga/
+
+
+

@@ -2,7 +2,7 @@
 a personal blog designed with CodeIgniter, PHP has proven to be the easiest programming language to build content management systems - CMS
 The project is hosted on a public control pannel, and runs through a pipeline. 
 
-Important informations on how to and details on personal projes will be made available on this blog. updates in technology from the Internet 
+Important informations on how to and details on personal projects will be made available on this blog. updates on technology from the Internet 
 of things to Artificial intelligence to Augmented and Virtual reality to Computer vision to Robotics will be updated on this website. 
 
 the blog also includes a live chat system connecting me with anybody surfing on the website, this allows me to practically chat with a user live 

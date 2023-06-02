@@ -8,7 +8,7 @@ of things to Artificial intelligence to Augmented and Virtual reality to Compute
 the blog also includes a live chat system connecting me with anybody surfing on the website, this allows me to practically chat with a user live 
 through my cell phone as regards any enquiry and has the ability to change skin from white to black
 
-cool isnt it? 
+cool isnt it???
 
 technologies; PHP - Codeigniter, Html, Css, Javascript, JQuery, MySQL, PHPMyAdmin, Cpanel, SSL, Azure
 
